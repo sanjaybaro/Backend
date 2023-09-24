@@ -8,4 +8,5 @@ Notes taking app.
 4. Post/Create notes.
 5. Update notes.
 6. Delete notes.
+7. API documentation with Swagger
 
