@@ -1,23 +1,14 @@
 {
   "name": "full-stack-",
   "version": "1.0.0",
-  "description": "First==>Full-Stack backend.",
+  "description": "Full-Stack Note App",
   "main": "index.js",
   "scripts": {
     "server": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IntriguedSayan/Full-Stack-.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/IntriguedSayan/Full-Stack-/issues"
-  },
-  "homepage": "https://github.com/IntriguedSayan/Full-Stack-#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
