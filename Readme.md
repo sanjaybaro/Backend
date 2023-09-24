@@ -1,5 +1,7 @@
 First==>Full-Stack backend.
 
+Link for API Documentation : `http://localhost:${PORT}/apidocs/`
+
 Notes taking app.
 
 1. Authentication.
